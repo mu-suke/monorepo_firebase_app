@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "engines": {
+    "node": "16.18.1"
+  },
+  "scripts": {
+    "prepare": "husky install",
+    "preinstall": "npx -y only-allow npm",
+    "lint:fmt": "npm run lint:fmt -s -C web && npm run lint:fmt -s -C firebase"
+  },
+  "devDependencies": {
+    "husky": "8.0.1",
+    "lint-staged": "13.0.3"
+  }
+}

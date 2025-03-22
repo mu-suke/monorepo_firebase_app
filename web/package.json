@@ -19,7 +19,7 @@
     "@emotion/styled": "11.10.5",
     "@firebase/auth": "0.20.11",
     "@firebase/firestore": "3.7.2",
-    "@hookform/resolvers": "2.9.10",
+    "@hookform/resolvers": "2.9.11",
     "firebase": "9.13.0",
     "framer-motion": "7.6.4",
     "next": "13.0.2",

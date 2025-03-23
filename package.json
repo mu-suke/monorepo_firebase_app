@@ -9,7 +9,7 @@
     "lint:fmt": "npm run lint:fmt -s -C web && npm run lint:fmt -s -C firebase"
   },
   "devDependencies": {
-    "husky": "8.0.1",
+    "husky": "8.0.3",
     "lint-staged": "13.0.3"
   }
 }
